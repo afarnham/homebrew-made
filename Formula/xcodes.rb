@@ -7,7 +7,7 @@ class Xcodes < Formula
   bottle do
     root_url 'https://github.com/afarnham/xcodes/releases/download/0.15.1'
     cellar :any_skip_relocation
-    sha256 "3e8a2d322d25a0038fe41820dc3caf2a35d04325f715912cec3906bb916d8cea" => :arm64_big_sur
+    sha256 "d66cfb801f91788b265b304c4f6cb3140fc37bb96b5372534579dd5d00e3b509" => :arm64_big_sur
   end
 
   def install
